@@ -1,0 +1,19 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CU-CSPB-3308-Summer-2026-classroom",
+  "short_name": "cspb-3308-fa26",
+  "term": "Fall-2026",
+  "org": "CSPB-3308-Repo",
+  "team": {
+    "id": 18334804,
+    "slug": "classroom50-cspb-3308-fa26"
+  },
+  "migrated_from": {
+    "source": "github_classroom",
+    "classroom_id": 323715,
+    "original_name": "CU-CSPB-3308-Summer-2026-classroom",
+    "original_org_login": "CU-CSPB-3308",
+    "url": "https://classroom.github.com/classrooms/250014132-cu-cspb-3308-summer-2026-classroom",
+    "migrated_at": "2026-07-05T18:28:46Z"
+  }
+}

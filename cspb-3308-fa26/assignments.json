@@ -1,0 +1,24 @@
+{
+  "schema": "classroom50/assignments/v1",
+  "assignments": [
+    {
+      "slug": "lab-1-and-2",
+      "name": "Lab-1-and-2",
+      "template": {
+        "owner": "CSPB-3308-Repo",
+        "repo": "lab-1-and-2",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "migrated_from": {
+        "source": "github_classroom",
+        "classroom_id": 323715,
+        "assignment_id": 994470,
+        "starter_repo": "CU-CSPB-3308/cu-cspb-3308-summer-2026-classroom-lab-1-and-2-assignment-unix-1713ff",
+        "invite_link": "https://classroom.github.com/a/aAJpHnED",
+        "migrated_at": "2026-07-05T18:28:46Z"
+      }
+    }
+  ]
+}
